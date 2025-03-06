@@ -114,7 +114,7 @@ The second report is booking platforms by week with filters for property name ca
 >This kind of knowledge can boost future marketing strategies.
 ![image](https://github.com/mythilyram/Excel/assets/123518126/e57c3d46-dcbc-4863-921a-994138ee6276)
 
-#Part 4
+# Part 4:
 ### ▪ Data Source:
 I had data in the form of multiple CSV files. These files held the keys to unlocking insights for Atliq hardware.
     
@@ -150,10 +150,7 @@ I flexed my DAX skills and put together some nifty pivot tables to generate a va
 7. Top 5 Countries by Net Sales: A peek into our global performance, showcasing the top players.
 ![image](https://github.com/mythilyram/Excel/assets/123518126/e7225189-c464-48b0-afe8-250aa83d6c7f)
 
-# User-Centric Design: 
-I'm all about making data user-friendly. So, I've displayed all numbers in an easily readable format and used conditional formatting to make the most important data pop.
 
-Data integration and analysis are our compass for making informed, data-driven decisions. These reports are the secret sauce that will drive Atliq Hardware toward even greater success.
 
 
 
