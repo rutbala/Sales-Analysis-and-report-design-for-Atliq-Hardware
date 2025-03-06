@@ -83,13 +83,14 @@ Properties table
 1. Load the data in an Excel file directly into the data model for data cleaning. Once the data cleaning is done, Use the "only create connections" option and "add this to the data model" to load data.
 
 2. In the Power pivot data model, establish the relationship between both tables by connecting the property ID.
+
 3. ![image](https://github.com/mythilyram/Excel/assets/123518126/f9f0e1f8-6a23-4770-9b16-5bdeae759b03)
 
 4. Create a pivot table from the data model option.
 
 5. Generate DAX measures to calculate sum, count, and average functions.
-6. 
-![image](https://github.com/mythilyram/Excel/assets/123518126/b754837c-ebb3-4fcf-80f6-557fd39b0351)
+
+6. ![image](https://github.com/mythilyram/Excel/assets/123518126/b754837c-ebb3-4fcf-80f6-557fd39b0351)
 
 The first report shows all the property performance for each Property:
 ![image](https://github.com/mythilyram/Excel/assets/123518126/5464c0b6-9b88-480e-8bfe-cb682e6ab318)
