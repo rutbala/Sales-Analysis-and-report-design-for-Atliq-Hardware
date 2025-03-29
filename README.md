@@ -150,6 +150,9 @@ I flexed my DAX skills and put together some nifty pivot tables to generate a va
 7. Top 5 Countries by Net Sales: A peek into our global performance, showcasing the top players.
 ![image](https://github.com/mythilyram/Excel/assets/123518126/e7225189-c464-48b0-afe8-250aa83d6c7f)
 
+PowerBI:
+
+![image](https://github.com/user-attachments/assets/b250d143-6ebb-43c4-8a5f-e3153d5cb420)
 
 
 
